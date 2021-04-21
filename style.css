@@ -149,7 +149,9 @@ body {
       visibility: hidden;
     }
   }
-
+.main-content p {
+    text-align: center;
+}
 .container-video {
     overflow: hidden;
     position: relative;
